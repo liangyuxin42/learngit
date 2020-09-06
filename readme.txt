@@ -1,4 +1,4 @@
 ## i am learning git
-for using my github.io blog easily
-and working with github
+for using my  blog easily
+and using github
 i hope it's easy
